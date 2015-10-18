@@ -4,7 +4,7 @@ Currently contains a single user-defined language file, for a simple assembly la
 
 ## Installing
 
-    1. Go to View > User-Defined Dialogue...
+    1. Go to View > User-Defined Dialogue... (or Language > Define your language...)
     2. Click Import...
     3. Select the language xml file and click Open
     4. Restart Notepad++
